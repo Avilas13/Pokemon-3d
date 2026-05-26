@@ -1,0 +1,8 @@
+{
+  "biomeSpawnWeights": {
+    "Forest": {"common": 0.6, "uncommon": 0.25, "rare": 0.12, "shiny": 0.03},
+    "Cave": {"common": 0.52, "uncommon": 0.28, "rare": 0.16, "shiny": 0.04},
+    "Mountain": {"common": 0.5, "uncommon": 0.3, "rare": 0.17, "shiny": 0.03},
+    "River": {"common": 0.58, "uncommon": 0.26, "rare": 0.13, "shiny": 0.03}
+  }
+}

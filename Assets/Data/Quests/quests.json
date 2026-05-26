@@ -1,0 +1,54 @@
+{
+  "quests": [
+    {
+      "id": "main_001",
+      "title": "First Steps in Auralis",
+      "isMainStory": true,
+      "objectives": [
+        {"description": "Meet Professor Luma", "targetCount": 1},
+        {"description": "Catch your first creature", "targetCount": 1}
+      ],
+      "dialogue": [
+        {
+          "id": "intro",
+          "text": "Welcome, trainer. Ready to begin your journey?",
+          "choices": [
+            {"text": "Yes, let's go!", "nextNodeId": "accept"},
+            {"text": "Tell me more first.", "nextNodeId": "explain"}
+          ]
+        },
+        {
+          "id": "explain",
+          "text": "Explore biomes, battle trainers, and complete your Dex.",
+          "choices": [{"text": "I'm ready now.", "nextNodeId": "accept"}]
+        },
+        {
+          "id": "accept",
+          "text": "Take these capture balls and head to Starter Plains.",
+          "choices": []
+        }
+      ]
+    },
+    {
+      "id": "side_001",
+      "title": "Supply Run",
+      "isMainStory": false,
+      "objectives": [
+        {"description": "Gather 5 Fiber Leaf", "targetCount": 5},
+        {"description": "Return to the shopkeeper", "targetCount": 1}
+      ],
+      "dialogue": [
+        {
+          "id": "intro",
+          "text": "Can you gather herbs near the river?",
+          "choices": [
+            {"text": "Sure.", "nextNodeId": "accepted"},
+            {"text": "Not now.", "nextNodeId": "declined"}
+          ]
+        },
+        {"id": "accepted", "text": "Thanks! I'll reward you with upgraded balls.", "choices": []},
+        {"id": "declined", "text": "Come back any time.", "choices": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2815 @@
+{
+  "creatures": [
+    {
+      "id": "creature_001",
+      "displayName": "Emberling1",
+      "stats": {
+        "hp": 41,
+        "attack": 36,
+        "defense": 31,
+        "specialAttack": 34,
+        "specialDefense": 30,
+        "speed": 29
+      },
+      "types": [
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_002",
+          "levelRequirement": 17,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_001",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 11,
+      "baseCaptureRate": 0.588
+    },
+    {
+      "id": "creature_002",
+      "displayName": "Tideclaw2",
+      "stats": {
+        "hp": 42,
+        "attack": 37,
+        "defense": 32,
+        "specialAttack": 35,
+        "specialDefense": 31,
+        "speed": 30
+      },
+      "types": [
+        "Water"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_003",
+          "levelRequirement": 18,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_002",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 12,
+      "baseCaptureRate": 0.58
+    },
+    {
+      "id": "creature_003",
+      "displayName": "Verdhorn3",
+      "stats": {
+        "hp": 43,
+        "attack": 38,
+        "defense": 33,
+        "specialAttack": 36,
+        "specialDefense": 32,
+        "speed": 31
+      },
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_004",
+          "levelRequirement": 19,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_003",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 13,
+      "baseCaptureRate": 0.572
+    },
+    {
+      "id": "creature_004",
+      "displayName": "Voltwing4",
+      "stats": {
+        "hp": 44,
+        "attack": 39,
+        "defense": 34,
+        "specialAttack": 37,
+        "specialDefense": 33,
+        "speed": 32
+      },
+      "types": [
+        "Electric"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_005",
+          "levelRequirement": 20,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_004",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 14,
+      "baseCaptureRate": 0.563
+    },
+    {
+      "id": "creature_005",
+      "displayName": "Cragtail5",
+      "stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 35,
+        "specialAttack": 38,
+        "specialDefense": 34,
+        "speed": 33
+      },
+      "types": [
+        "Rock"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_006",
+          "levelRequirement": 21,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_005",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 15,
+      "baseCaptureRate": 0.555
+    },
+    {
+      "id": "creature_006",
+      "displayName": "Terrapelt6",
+      "stats": {
+        "hp": 46,
+        "attack": 41,
+        "defense": 36,
+        "specialAttack": 39,
+        "specialDefense": 35,
+        "speed": 34
+      },
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_007",
+          "levelRequirement": 22,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_006",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 16,
+      "baseCaptureRate": 0.547
+    },
+    {
+      "id": "creature_007",
+      "displayName": "Galespark7",
+      "stats": {
+        "hp": 47,
+        "attack": 42,
+        "defense": 37,
+        "specialAttack": 40,
+        "specialDefense": 36,
+        "speed": 35
+      },
+      "types": [
+        "Wind"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_008",
+          "levelRequirement": 23,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_007",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 17,
+      "baseCaptureRate": 0.538
+    },
+    {
+      "id": "creature_008",
+      "displayName": "Lumabloom8",
+      "stats": {
+        "hp": 48,
+        "attack": 43,
+        "defense": 38,
+        "specialAttack": 41,
+        "specialDefense": 37,
+        "speed": 36
+      },
+      "types": [
+        "Light"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_009",
+          "levelRequirement": 24,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_008",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 18,
+      "baseCaptureRate": 0.53
+    },
+    {
+      "id": "creature_009",
+      "displayName": "Noctfang9",
+      "stats": {
+        "hp": 49,
+        "attack": 44,
+        "defense": 39,
+        "specialAttack": 42,
+        "specialDefense": 38,
+        "speed": 37
+      },
+      "types": [
+        "Dark",
+        "Water"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_010",
+          "levelRequirement": 25,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_009",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 19,
+      "baseCaptureRate": 0.522
+    },
+    {
+      "id": "creature_010",
+      "displayName": "Frostcrest10",
+      "stats": {
+        "hp": 50,
+        "attack": 45,
+        "defense": 40,
+        "specialAttack": 43,
+        "specialDefense": 39,
+        "speed": 38
+      },
+      "types": [
+        "Ice"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_011",
+          "levelRequirement": 26,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_010",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 20,
+      "baseCaptureRate": 0.513
+    },
+    {
+      "id": "creature_011",
+      "displayName": "Emberling11",
+      "stats": {
+        "hp": 51,
+        "attack": 46,
+        "defense": 41,
+        "specialAttack": 44,
+        "specialDefense": 40,
+        "speed": 39
+      },
+      "types": [
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_012",
+          "levelRequirement": 27,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_011",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 21,
+      "baseCaptureRate": 0.505
+    },
+    {
+      "id": "creature_012",
+      "displayName": "Tideclaw12",
+      "stats": {
+        "hp": 52,
+        "attack": 47,
+        "defense": 42,
+        "specialAttack": 45,
+        "specialDefense": 41,
+        "speed": 40
+      },
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_013",
+          "levelRequirement": 16,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_012",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 22,
+      "baseCaptureRate": 0.497
+    },
+    {
+      "id": "creature_013",
+      "displayName": "Verdhorn13",
+      "stats": {
+        "hp": 53,
+        "attack": 48,
+        "defense": 43,
+        "specialAttack": 46,
+        "specialDefense": 42,
+        "speed": 41
+      },
+      "types": [
+        "Grass"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_014",
+          "levelRequirement": 17,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_013",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 23,
+      "baseCaptureRate": 0.488
+    },
+    {
+      "id": "creature_014",
+      "displayName": "Voltwing14",
+      "stats": {
+        "hp": 54,
+        "attack": 49,
+        "defense": 44,
+        "specialAttack": 47,
+        "specialDefense": 43,
+        "speed": 42
+      },
+      "types": [
+        "Electric"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_015",
+          "levelRequirement": 18,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_014",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 24,
+      "baseCaptureRate": 0.48
+    },
+    {
+      "id": "creature_015",
+      "displayName": "Cragtail15",
+      "stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "specialAttack": 48,
+        "specialDefense": 44,
+        "speed": 43
+      },
+      "types": [
+        "Rock",
+        "Light"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_016",
+          "levelRequirement": 19,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_015",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 25,
+      "baseCaptureRate": 0.472
+    },
+    {
+      "id": "creature_016",
+      "displayName": "Terrapelt16",
+      "stats": {
+        "hp": 56,
+        "attack": 51,
+        "defense": 46,
+        "specialAttack": 49,
+        "specialDefense": 45,
+        "speed": 44
+      },
+      "types": [
+        "Ground"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_017",
+          "levelRequirement": 20,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_016",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 26,
+      "baseCaptureRate": 0.463
+    },
+    {
+      "id": "creature_017",
+      "displayName": "Galespark17",
+      "stats": {
+        "hp": 57,
+        "attack": 52,
+        "defense": 47,
+        "specialAttack": 50,
+        "specialDefense": 46,
+        "speed": 45
+      },
+      "types": [
+        "Wind"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_018",
+          "levelRequirement": 21,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_017",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 27,
+      "baseCaptureRate": 0.455
+    },
+    {
+      "id": "creature_018",
+      "displayName": "Lumabloom18",
+      "stats": {
+        "hp": 58,
+        "attack": 53,
+        "defense": 48,
+        "specialAttack": 51,
+        "specialDefense": 47,
+        "speed": 46
+      },
+      "types": [
+        "Light",
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_019",
+          "levelRequirement": 22,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_018",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 28,
+      "baseCaptureRate": 0.447
+    },
+    {
+      "id": "creature_019",
+      "displayName": "Noctfang19",
+      "stats": {
+        "hp": 59,
+        "attack": 54,
+        "defense": 49,
+        "specialAttack": 52,
+        "specialDefense": 48,
+        "speed": 47
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_020",
+          "levelRequirement": 23,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_019",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 29,
+      "baseCaptureRate": 0.438
+    },
+    {
+      "id": "creature_020",
+      "displayName": "Frostcrest20",
+      "stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 50,
+        "specialAttack": 53,
+        "specialDefense": 49,
+        "speed": 48
+      },
+      "types": [
+        "Ice"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_021",
+          "levelRequirement": 24,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_020",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 30,
+      "baseCaptureRate": 0.43
+    },
+    {
+      "id": "creature_021",
+      "displayName": "Emberling21",
+      "stats": {
+        "hp": 61,
+        "attack": 56,
+        "defense": 51,
+        "specialAttack": 54,
+        "specialDefense": 50,
+        "speed": 49
+      },
+      "types": [
+        "Fire",
+        "Electric"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_022",
+          "levelRequirement": 25,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_021",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 31,
+      "baseCaptureRate": 0.422
+    },
+    {
+      "id": "creature_022",
+      "displayName": "Tideclaw22",
+      "stats": {
+        "hp": 62,
+        "attack": 57,
+        "defense": 52,
+        "specialAttack": 55,
+        "specialDefense": 51,
+        "speed": 50
+      },
+      "types": [
+        "Water"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_023",
+          "levelRequirement": 26,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_022",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 32,
+      "baseCaptureRate": 0.413
+    },
+    {
+      "id": "creature_023",
+      "displayName": "Verdhorn23",
+      "stats": {
+        "hp": 63,
+        "attack": 58,
+        "defense": 53,
+        "specialAttack": 56,
+        "specialDefense": 52,
+        "speed": 51
+      },
+      "types": [
+        "Grass"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_024",
+          "levelRequirement": 27,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_023",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 33,
+      "baseCaptureRate": 0.405
+    },
+    {
+      "id": "creature_024",
+      "displayName": "Voltwing24",
+      "stats": {
+        "hp": 64,
+        "attack": 59,
+        "defense": 54,
+        "specialAttack": 57,
+        "specialDefense": 53,
+        "speed": 52
+      },
+      "types": [
+        "Electric",
+        "Wind"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_025",
+          "levelRequirement": 16,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_024",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 34,
+      "baseCaptureRate": 0.397
+    },
+    {
+      "id": "creature_025",
+      "displayName": "Cragtail25",
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 55,
+        "specialAttack": 58,
+        "specialDefense": 54,
+        "speed": 53
+      },
+      "types": [
+        "Rock"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_026",
+          "levelRequirement": 17,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_025",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 35,
+      "baseCaptureRate": 0.388
+    },
+    {
+      "id": "creature_026",
+      "displayName": "Terrapelt26",
+      "stats": {
+        "hp": 66,
+        "attack": 61,
+        "defense": 56,
+        "specialAttack": 59,
+        "specialDefense": 55,
+        "speed": 54
+      },
+      "types": [
+        "Ground"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_027",
+          "levelRequirement": 18,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_026",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 36,
+      "baseCaptureRate": 0.38
+    },
+    {
+      "id": "creature_027",
+      "displayName": "Galespark27",
+      "stats": {
+        "hp": 67,
+        "attack": 62,
+        "defense": 57,
+        "specialAttack": 60,
+        "specialDefense": 56,
+        "speed": 55
+      },
+      "types": [
+        "Wind",
+        "Ice"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_028",
+          "levelRequirement": 19,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_027",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 37,
+      "baseCaptureRate": 0.372
+    },
+    {
+      "id": "creature_028",
+      "displayName": "Lumabloom28",
+      "stats": {
+        "hp": 68,
+        "attack": 63,
+        "defense": 58,
+        "specialAttack": 61,
+        "specialDefense": 57,
+        "speed": 56
+      },
+      "types": [
+        "Light"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_029",
+          "levelRequirement": 20,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_028",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 38,
+      "baseCaptureRate": 0.363
+    },
+    {
+      "id": "creature_029",
+      "displayName": "Noctfang29",
+      "stats": {
+        "hp": 69,
+        "attack": 64,
+        "defense": 59,
+        "specialAttack": 62,
+        "specialDefense": 58,
+        "speed": 57
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_030",
+          "levelRequirement": 21,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_029",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 39,
+      "baseCaptureRate": 0.355
+    },
+    {
+      "id": "creature_030",
+      "displayName": "Frostcrest30",
+      "stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 63,
+        "specialDefense": 59,
+        "speed": 58
+      },
+      "types": [
+        "Ice",
+        "Grass"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_031",
+          "levelRequirement": 22,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_030",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 40,
+      "baseCaptureRate": 0.347
+    },
+    {
+      "id": "creature_031",
+      "displayName": "Emberling31",
+      "stats": {
+        "hp": 71,
+        "attack": 66,
+        "defense": 61,
+        "specialAttack": 64,
+        "specialDefense": 60,
+        "speed": 59
+      },
+      "types": [
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_032",
+          "levelRequirement": 23,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_031",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 41,
+      "baseCaptureRate": 0.338
+    },
+    {
+      "id": "creature_032",
+      "displayName": "Tideclaw32",
+      "stats": {
+        "hp": 72,
+        "attack": 67,
+        "defense": 62,
+        "specialAttack": 65,
+        "specialDefense": 61,
+        "speed": 60
+      },
+      "types": [
+        "Water"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_033",
+          "levelRequirement": 24,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_032",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 42,
+      "baseCaptureRate": 0.33
+    },
+    {
+      "id": "creature_033",
+      "displayName": "Verdhorn33",
+      "stats": {
+        "hp": 73,
+        "attack": 68,
+        "defense": 63,
+        "specialAttack": 66,
+        "specialDefense": 62,
+        "speed": 61
+      },
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_034",
+          "levelRequirement": 25,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_033",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 43,
+      "baseCaptureRate": 0.322
+    },
+    {
+      "id": "creature_034",
+      "displayName": "Voltwing34",
+      "stats": {
+        "hp": 74,
+        "attack": 69,
+        "defense": 64,
+        "specialAttack": 67,
+        "specialDefense": 63,
+        "speed": 62
+      },
+      "types": [
+        "Electric"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_035",
+          "levelRequirement": 26,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_034",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 44,
+      "baseCaptureRate": 0.313
+    },
+    {
+      "id": "creature_035",
+      "displayName": "Cragtail35",
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 65,
+        "specialAttack": 68,
+        "specialDefense": 64,
+        "speed": 63
+      },
+      "types": [
+        "Rock"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_036",
+          "levelRequirement": 27,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_035",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 45,
+      "baseCaptureRate": 0.305
+    },
+    {
+      "id": "creature_036",
+      "displayName": "Terrapelt36",
+      "stats": {
+        "hp": 76,
+        "attack": 71,
+        "defense": 66,
+        "specialAttack": 69,
+        "specialDefense": 65,
+        "speed": 64
+      },
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_037",
+          "levelRequirement": 16,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_036",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 46,
+      "baseCaptureRate": 0.297
+    },
+    {
+      "id": "creature_037",
+      "displayName": "Galespark37",
+      "stats": {
+        "hp": 77,
+        "attack": 72,
+        "defense": 67,
+        "specialAttack": 70,
+        "specialDefense": 66,
+        "speed": 65
+      },
+      "types": [
+        "Wind"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_038",
+          "levelRequirement": 17,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_037",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 47,
+      "baseCaptureRate": 0.288
+    },
+    {
+      "id": "creature_038",
+      "displayName": "Lumabloom38",
+      "stats": {
+        "hp": 78,
+        "attack": 73,
+        "defense": 68,
+        "specialAttack": 71,
+        "specialDefense": 67,
+        "speed": 66
+      },
+      "types": [
+        "Light"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_039",
+          "levelRequirement": 18,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_038",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 48,
+      "baseCaptureRate": 0.28
+    },
+    {
+      "id": "creature_039",
+      "displayName": "Noctfang39",
+      "stats": {
+        "hp": 79,
+        "attack": 74,
+        "defense": 69,
+        "specialAttack": 72,
+        "specialDefense": 68,
+        "speed": 67
+      },
+      "types": [
+        "Dark",
+        "Water"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_040",
+          "levelRequirement": 19,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_039",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 49,
+      "baseCaptureRate": 0.272
+    },
+    {
+      "id": "creature_040",
+      "displayName": "Frostcrest40",
+      "stats": {
+        "hp": 80,
+        "attack": 75,
+        "defense": 70,
+        "specialAttack": 73,
+        "specialDefense": 69,
+        "speed": 68
+      },
+      "types": [
+        "Ice"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_5"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_041",
+          "levelRequirement": 20,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_040",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 50,
+      "baseCaptureRate": 0.263
+    },
+    {
+      "id": "creature_041",
+      "displayName": "Emberling41",
+      "stats": {
+        "hp": 81,
+        "attack": 76,
+        "defense": 71,
+        "specialAttack": 74,
+        "specialDefense": 70,
+        "speed": 69
+      },
+      "types": [
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_6"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_042",
+          "levelRequirement": 21,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_041",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 51,
+      "baseCaptureRate": 0.255
+    },
+    {
+      "id": "creature_042",
+      "displayName": "Tideclaw42",
+      "stats": {
+        "hp": 82,
+        "attack": 77,
+        "defense": 72,
+        "specialAttack": 75,
+        "specialDefense": 71,
+        "speed": 70
+      },
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_1"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_043",
+          "levelRequirement": 22,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_042",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 52,
+      "baseCaptureRate": 0.247
+    },
+    {
+      "id": "creature_043",
+      "displayName": "Verdhorn43",
+      "stats": {
+        "hp": 83,
+        "attack": 78,
+        "defense": 73,
+        "specialAttack": 76,
+        "specialDefense": 72,
+        "speed": 71
+      },
+      "types": [
+        "Grass"
+      ],
+      "abilities": [
+        "Ability_4",
+        "Hidden_2"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_044",
+          "levelRequirement": 23,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_043",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Bold",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 53,
+      "baseCaptureRate": 0.238
+    },
+    {
+      "id": "creature_044",
+      "displayName": "Voltwing44",
+      "stats": {
+        "hp": 84,
+        "attack": 79,
+        "defense": 74,
+        "specialAttack": 77,
+        "specialDefense": 73,
+        "speed": 72
+      },
+      "types": [
+        "Electric"
+      ],
+      "abilities": [
+        "Ability_5",
+        "Hidden_3"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_045",
+          "levelRequirement": 24,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_044",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Timid",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 54,
+      "baseCaptureRate": 0.23
+    },
+    {
+      "id": "creature_045",
+      "displayName": "Cragtail45",
+      "stats": {
+        "hp": 85,
+        "attack": 80,
+        "defense": 75,
+        "specialAttack": 78,
+        "specialDefense": 74,
+        "speed": 73
+      },
+      "types": [
+        "Rock",
+        "Light"
+      ],
+      "abilities": [
+        "Ability_6",
+        "Hidden_4"
+      ],
+      "evolutionChain": [
+        {
+          "evolvesTo": "creature_046",
+          "levelRequirement": 25,
+          "requiredItem": ""
+        }
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_045",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Jolly",
+      "spawnLocations": [
+        {
+          "biome": "River",
+          "timeWindows": [
+            "Dusk",
+            "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 55,
+      "baseCaptureRate": 0.222
+    },
+    {
+      "id": "creature_046",
+      "displayName": "Terrapelt46",
+      "stats": {
+        "hp": 86,
+        "attack": 81,
+        "defense": 76,
+        "specialAttack": 79,
+        "specialDefense": 75,
+        "speed": 74
+      },
+      "types": [
+        "Ground"
+      ],
+      "abilities": [
+        "Ability_7",
+        "Hidden_5"
+      ],
+      "evolutionChain": [],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_046",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Gentle",
+      "spawnLocations": [
+        {
+          "biome": "Plains",
+          "timeWindows": [
+            "Dawn",
+            "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 56,
+      "baseCaptureRate": 0.213
+    },
+    {
+      "id": "creature_047",
+      "displayName": "Galespark47",
+      "stats": {
+        "hp": 87,
+        "attack": 82,
+        "defense": 77,
+        "specialAttack": 80,
+        "specialDefense": 76,
+        "speed": 75
+      },
+      "types": [
+        "Wind"
+      ],
+      "abilities": [
+        "Ability_8",
+        "Hidden_6"
+      ],
+      "evolutionChain": [],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_047",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Mischievous",
+      "spawnLocations": [
+        {
+          "biome": "TownOutskirts",
+          "timeWindows": [
+            "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 57,
+      "baseCaptureRate": 0.205
+    },
+    {
+      "id": "creature_048",
+      "displayName": "Lumabloom48",
+      "stats": {
+        "hp": 88,
+        "attack": 83,
+        "defense": 78,
+        "specialAttack": 81,
+        "specialDefense": 77,
+        "speed": 76
+      },
+      "types": [
+        "Light",
+        "Fire"
+      ],
+      "abilities": [
+        "Ability_1",
+        "Hidden_1"
+      ],
+      "evolutionChain": [],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_048",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Brave",
+      "spawnLocations": [
+        {
+          "biome": "Forest",
+          "timeWindows": [
+            "Day",
+            "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 58,
+      "baseCaptureRate": 0.197
+    },
+    {
+      "id": "creature_049",
+      "displayName": "Noctfang49",
+      "stats": {
+        "hp": 89,
+        "attack": 84,
+        "defense": 79,
+        "specialAttack": 82,
+        "specialDefense": 78,
+        "speed": 77
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        "Ability_2",
+        "Hidden_2"
+      ],
+      "evolutionChain": [],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_049",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Calm",
+      "spawnLocations": [
+        {
+          "biome": "Cave",
+          "timeWindows": [
+            "Night",
+            "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 59,
+      "baseCaptureRate": 0.188
+    },
+    {
+      "id": "creature_050",
+      "displayName": "Frostcrest50",
+      "stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 80,
+        "specialAttack": 83,
+        "specialDefense": 79,
+        "speed": 78
+      },
+      "types": [
+        "Ice"
+      ],
+      "abilities": [
+        "Ability_3",
+        "Hidden_3"
+      ],
+      "evolutionChain": [],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Sleep",
+        "Celebrate"
+      ],
+      "soundEffects": [
+        "Cry_050",
+        "Footstep",
+        "AttackCast"
+      ],
+      "personality": "Curious",
+      "spawnLocations": [
+        {
+          "biome": "Mountain",
+          "timeWindows": [
+            "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
+          ]
+        }
+      ],
+      "hasShinyVariant": true,
+      "rarity": 60,
+      "baseCaptureRate": 0.18
+    }
+  ]
+}
