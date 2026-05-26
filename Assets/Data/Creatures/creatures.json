@@ -43,13 +43,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -100,12 +100,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -157,13 +157,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -214,12 +214,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -270,12 +270,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -327,13 +327,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -384,13 +384,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -441,12 +441,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -498,13 +498,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -555,12 +555,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -611,12 +611,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -668,13 +668,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -725,13 +725,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -782,12 +782,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -839,13 +839,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -896,12 +896,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -952,12 +952,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -1009,13 +1009,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -1066,13 +1066,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -1123,12 +1123,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -1180,13 +1180,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -1237,12 +1237,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -1293,12 +1293,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -1350,13 +1350,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -1407,13 +1407,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -1464,12 +1464,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -1521,13 +1521,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -1578,12 +1578,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -1634,12 +1634,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -1691,13 +1691,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -1748,13 +1748,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -1805,12 +1805,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -1862,13 +1862,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -1919,12 +1919,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -1975,12 +1975,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -2032,13 +2032,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -2089,13 +2089,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -2146,12 +2146,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -2203,13 +2203,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -2260,12 +2260,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -2316,12 +2316,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -2373,13 +2373,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -2430,13 +2430,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -2487,12 +2487,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],
@@ -2544,13 +2544,13 @@
       "spawnLocations": [
         {
           "biome": "River",
-          "weather": [
-            "Storm",
-            "Rain"
-          ],
           "timeWindows": [
             "Dusk",
             "Night"
+          ],
+          "weatherConditions": [
+            "Storm",
+            "Rain"
           ]
         }
       ],
@@ -2595,12 +2595,12 @@
       "spawnLocations": [
         {
           "biome": "Plains",
-          "weather": [
-            "Clear"
-          ],
           "timeWindows": [
             "Dawn",
             "Day"
+          ],
+          "weatherConditions": [
+            "Clear"
           ]
         }
       ],
@@ -2645,12 +2645,12 @@
       "spawnLocations": [
         {
           "biome": "TownOutskirts",
-          "weather": [
-            "Fog",
-            "Clear"
-          ],
           "timeWindows": [
             "Night"
+          ],
+          "weatherConditions": [
+            "Fog",
+            "Clear"
           ]
         }
       ],
@@ -2696,13 +2696,13 @@
       "spawnLocations": [
         {
           "biome": "Forest",
-          "weather": [
-            "Clear",
-            "Rain"
-          ],
           "timeWindows": [
             "Day",
             "Dusk"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Rain"
           ]
         }
       ],
@@ -2747,13 +2747,13 @@
       "spawnLocations": [
         {
           "biome": "Cave",
-          "weather": [
-            "Clear",
-            "Fog"
-          ],
           "timeWindows": [
             "Night",
             "Dawn"
+          ],
+          "weatherConditions": [
+            "Clear",
+            "Fog"
           ]
         }
       ],
@@ -2798,12 +2798,12 @@
       "spawnLocations": [
         {
           "biome": "Mountain",
-          "weather": [
-            "Snow",
-            "Clear"
-          ],
           "timeWindows": [
             "Day"
+          ],
+          "weatherConditions": [
+            "Snow",
+            "Clear"
           ]
         }
       ],

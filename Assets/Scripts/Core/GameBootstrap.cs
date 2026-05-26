@@ -9,7 +9,6 @@ namespace Pokemon3D
     {
         [SerializeField] private CreatureDatabase creatureDatabase = default!;
         [SerializeField] private WorldTimeWeatherSystem worldTimeWeatherSystem = default!;
-        [SerializeField] private BiomeSpawnSystem biomeSpawnSystem = default!;
 
         private GameplayEventBus _eventBus = default!;
 
@@ -17,13 +16,6 @@ namespace Pokemon3D
         {
             _eventBus = new GameplayEventBus();
             worldTimeWeatherSystem.Initialize(_eventBus);
-
-            // Hooks for additional systems:
-            _eventBus.Subscribe<TimeWeatherChangedEvent>(_ =>
-            {
-                var spawnCandidatesExample = biomeSpawnSystem.GetSpawnCandidates("Forest", "Clear", worldTimeWeatherSystem.GetTimeWindow());
-                _ = spawnCandidatesExample;
-            });
         }
     }
 }

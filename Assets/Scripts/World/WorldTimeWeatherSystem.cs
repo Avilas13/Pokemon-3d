@@ -24,19 +24,33 @@ namespace Pokemon3D.World
 
         private GameplayEventBus _eventBus = default!;
         private float _clock;
+        private float _nextPublishTime;
+        private float _lastPublishedClock;
+        private WeatherType _lastPublishedWeather;
 
         public void Initialize(GameplayEventBus eventBus) => _eventBus = eventBus;
 
         private void Update()
         {
             _clock = (_clock + Time.deltaTime / dayLengthSeconds) % 1f;
+            if (Time.time < _nextPublishTime && Mathf.Abs(_clock - _lastPublishedClock) < 0.02f && _lastPublishedWeather == currentWeather)
+            {
+                return;
+            }
+
             _eventBus?.Publish(new TimeWeatherChangedEvent(_clock, currentWeather));
+            _nextPublishTime = Time.time + 1f;
+            _lastPublishedClock = _clock;
+            _lastPublishedWeather = currentWeather;
         }
 
         public void SetWeather(WeatherType weather)
         {
             currentWeather = weather;
             _eventBus?.Publish(new TimeWeatherChangedEvent(_clock, currentWeather));
+            _nextPublishTime = Time.time + 1f;
+            _lastPublishedClock = _clock;
+            _lastPublishedWeather = currentWeather;
         }
 
         public string GetTimeWindow()

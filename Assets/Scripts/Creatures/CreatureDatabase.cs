@@ -29,7 +29,7 @@ namespace Pokemon3D.Creatures
         {
             return _byId.Values.Where(c =>
                 c.spawnLocations.Exists(rule =>
-                    rule.biome == biome && rule.weather.Contains(weather) && rule.timeWindows.Contains(timeWindow)));
+                    rule.biome == biome && rule.weatherConditions.Contains(weather) && rule.timeWindows.Contains(timeWindow)));
         }
     }
 }

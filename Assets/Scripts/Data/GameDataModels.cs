@@ -26,7 +26,7 @@ namespace Pokemon3D.Data
     public sealed class SpawnRule
     {
         public string biome = string.Empty;
-        public List<string> weather = new();
+        public List<string> weatherConditions = new();
         public List<string> timeWindows = new();
     }
 
