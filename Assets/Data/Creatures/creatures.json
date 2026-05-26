@@ -2,7 +2,7 @@
   "creatures": [
     {
       "id": "creature_001",
-      "displayName": "Monora 1",
+      "displayName": "Emberling1",
       "stats": {
         "hp": 41,
         "attack": 36,
@@ -59,7 +59,7 @@
     },
     {
       "id": "creature_002",
-      "displayName": "Monora 2",
+      "displayName": "Tideclaw2",
       "stats": {
         "hp": 42,
         "attack": 37,
@@ -115,7 +115,7 @@
     },
     {
       "id": "creature_003",
-      "displayName": "Monora 3",
+      "displayName": "Verdhorn3",
       "stats": {
         "hp": 43,
         "attack": 38,
@@ -173,7 +173,7 @@
     },
     {
       "id": "creature_004",
-      "displayName": "Monora 4",
+      "displayName": "Voltwing4",
       "stats": {
         "hp": 44,
         "attack": 39,
@@ -229,7 +229,7 @@
     },
     {
       "id": "creature_005",
-      "displayName": "Monora 5",
+      "displayName": "Cragtail5",
       "stats": {
         "hp": 45,
         "attack": 40,
@@ -285,7 +285,7 @@
     },
     {
       "id": "creature_006",
-      "displayName": "Monora 6",
+      "displayName": "Terrapelt6",
       "stats": {
         "hp": 46,
         "attack": 41,
@@ -343,7 +343,7 @@
     },
     {
       "id": "creature_007",
-      "displayName": "Monora 7",
+      "displayName": "Galespark7",
       "stats": {
         "hp": 47,
         "attack": 42,
@@ -400,7 +400,7 @@
     },
     {
       "id": "creature_008",
-      "displayName": "Monora 8",
+      "displayName": "Lumabloom8",
       "stats": {
         "hp": 48,
         "attack": 43,
@@ -456,7 +456,7 @@
     },
     {
       "id": "creature_009",
-      "displayName": "Monora 9",
+      "displayName": "Noctfang9",
       "stats": {
         "hp": 49,
         "attack": 44,
@@ -514,7 +514,7 @@
     },
     {
       "id": "creature_010",
-      "displayName": "Monora 10",
+      "displayName": "Frostcrest10",
       "stats": {
         "hp": 50,
         "attack": 45,
@@ -570,7 +570,7 @@
     },
     {
       "id": "creature_011",
-      "displayName": "Monora 11",
+      "displayName": "Emberling11",
       "stats": {
         "hp": 51,
         "attack": 46,
@@ -626,7 +626,7 @@
     },
     {
       "id": "creature_012",
-      "displayName": "Monora 12",
+      "displayName": "Tideclaw12",
       "stats": {
         "hp": 52,
         "attack": 47,
@@ -684,7 +684,7 @@
     },
     {
       "id": "creature_013",
-      "displayName": "Monora 13",
+      "displayName": "Verdhorn13",
       "stats": {
         "hp": 53,
         "attack": 48,
@@ -741,7 +741,7 @@
     },
     {
       "id": "creature_014",
-      "displayName": "Monora 14",
+      "displayName": "Voltwing14",
       "stats": {
         "hp": 54,
         "attack": 49,
@@ -797,7 +797,7 @@
     },
     {
       "id": "creature_015",
-      "displayName": "Monora 15",
+      "displayName": "Cragtail15",
       "stats": {
         "hp": 55,
         "attack": 50,
@@ -855,7 +855,7 @@
     },
     {
       "id": "creature_016",
-      "displayName": "Monora 16",
+      "displayName": "Terrapelt16",
       "stats": {
         "hp": 56,
         "attack": 51,
@@ -911,7 +911,7 @@
     },
     {
       "id": "creature_017",
-      "displayName": "Monora 17",
+      "displayName": "Galespark17",
       "stats": {
         "hp": 57,
         "attack": 52,
@@ -967,7 +967,7 @@
     },
     {
       "id": "creature_018",
-      "displayName": "Monora 18",
+      "displayName": "Lumabloom18",
       "stats": {
         "hp": 58,
         "attack": 53,
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "creature_019",
-      "displayName": "Monora 19",
+      "displayName": "Noctfang19",
       "stats": {
         "hp": 59,
         "attack": 54,
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "creature_020",
-      "displayName": "Monora 20",
+      "displayName": "Frostcrest20",
       "stats": {
         "hp": 60,
         "attack": 55,
@@ -1138,7 +1138,7 @@
     },
     {
       "id": "creature_021",
-      "displayName": "Monora 21",
+      "displayName": "Emberling21",
       "stats": {
         "hp": 61,
         "attack": 56,
@@ -1196,7 +1196,7 @@
     },
     {
       "id": "creature_022",
-      "displayName": "Monora 22",
+      "displayName": "Tideclaw22",
       "stats": {
         "hp": 62,
         "attack": 57,
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "creature_023",
-      "displayName": "Monora 23",
+      "displayName": "Verdhorn23",
       "stats": {
         "hp": 63,
         "attack": 58,
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "creature_024",
-      "displayName": "Monora 24",
+      "displayName": "Voltwing24",
       "stats": {
         "hp": 64,
         "attack": 59,
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "creature_025",
-      "displayName": "Monora 25",
+      "displayName": "Cragtail25",
       "stats": {
         "hp": 65,
         "attack": 60,
@@ -1423,7 +1423,7 @@
     },
     {
       "id": "creature_026",
-      "displayName": "Monora 26",
+      "displayName": "Terrapelt26",
       "stats": {
         "hp": 66,
         "attack": 61,
@@ -1479,7 +1479,7 @@
     },
     {
       "id": "creature_027",
-      "displayName": "Monora 27",
+      "displayName": "Galespark27",
       "stats": {
         "hp": 67,
         "attack": 62,
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "creature_028",
-      "displayName": "Monora 28",
+      "displayName": "Lumabloom28",
       "stats": {
         "hp": 68,
         "attack": 63,
@@ -1593,7 +1593,7 @@
     },
     {
       "id": "creature_029",
-      "displayName": "Monora 29",
+      "displayName": "Noctfang29",
       "stats": {
         "hp": 69,
         "attack": 64,
@@ -1649,7 +1649,7 @@
     },
     {
       "id": "creature_030",
-      "displayName": "Monora 30",
+      "displayName": "Frostcrest30",
       "stats": {
         "hp": 70,
         "attack": 65,
@@ -1707,7 +1707,7 @@
     },
     {
       "id": "creature_031",
-      "displayName": "Monora 31",
+      "displayName": "Emberling31",
       "stats": {
         "hp": 71,
         "attack": 66,
@@ -1764,7 +1764,7 @@
     },
     {
       "id": "creature_032",
-      "displayName": "Monora 32",
+      "displayName": "Tideclaw32",
       "stats": {
         "hp": 72,
         "attack": 67,
@@ -1820,7 +1820,7 @@
     },
     {
       "id": "creature_033",
-      "displayName": "Monora 33",
+      "displayName": "Verdhorn33",
       "stats": {
         "hp": 73,
         "attack": 68,
@@ -1878,7 +1878,7 @@
     },
     {
       "id": "creature_034",
-      "displayName": "Monora 34",
+      "displayName": "Voltwing34",
       "stats": {
         "hp": 74,
         "attack": 69,
@@ -1934,7 +1934,7 @@
     },
     {
       "id": "creature_035",
-      "displayName": "Monora 35",
+      "displayName": "Cragtail35",
       "stats": {
         "hp": 75,
         "attack": 70,
@@ -1990,7 +1990,7 @@
     },
     {
       "id": "creature_036",
-      "displayName": "Monora 36",
+      "displayName": "Terrapelt36",
       "stats": {
         "hp": 76,
         "attack": 71,
@@ -2048,7 +2048,7 @@
     },
     {
       "id": "creature_037",
-      "displayName": "Monora 37",
+      "displayName": "Galespark37",
       "stats": {
         "hp": 77,
         "attack": 72,
@@ -2105,7 +2105,7 @@
     },
     {
       "id": "creature_038",
-      "displayName": "Monora 38",
+      "displayName": "Lumabloom38",
       "stats": {
         "hp": 78,
         "attack": 73,
@@ -2161,7 +2161,7 @@
     },
     {
       "id": "creature_039",
-      "displayName": "Monora 39",
+      "displayName": "Noctfang39",
       "stats": {
         "hp": 79,
         "attack": 74,
@@ -2219,7 +2219,7 @@
     },
     {
       "id": "creature_040",
-      "displayName": "Monora 40",
+      "displayName": "Frostcrest40",
       "stats": {
         "hp": 80,
         "attack": 75,
@@ -2275,7 +2275,7 @@
     },
     {
       "id": "creature_041",
-      "displayName": "Monora 41",
+      "displayName": "Emberling41",
       "stats": {
         "hp": 81,
         "attack": 76,
@@ -2331,7 +2331,7 @@
     },
     {
       "id": "creature_042",
-      "displayName": "Monora 42",
+      "displayName": "Tideclaw42",
       "stats": {
         "hp": 82,
         "attack": 77,
@@ -2389,7 +2389,7 @@
     },
     {
       "id": "creature_043",
-      "displayName": "Monora 43",
+      "displayName": "Verdhorn43",
       "stats": {
         "hp": 83,
         "attack": 78,
@@ -2446,7 +2446,7 @@
     },
     {
       "id": "creature_044",
-      "displayName": "Monora 44",
+      "displayName": "Voltwing44",
       "stats": {
         "hp": 84,
         "attack": 79,
@@ -2502,7 +2502,7 @@
     },
     {
       "id": "creature_045",
-      "displayName": "Monora 45",
+      "displayName": "Cragtail45",
       "stats": {
         "hp": 85,
         "attack": 80,
@@ -2560,7 +2560,7 @@
     },
     {
       "id": "creature_046",
-      "displayName": "Monora 46",
+      "displayName": "Terrapelt46",
       "stats": {
         "hp": 86,
         "attack": 81,
@@ -2610,7 +2610,7 @@
     },
     {
       "id": "creature_047",
-      "displayName": "Monora 47",
+      "displayName": "Galespark47",
       "stats": {
         "hp": 87,
         "attack": 82,
@@ -2660,7 +2660,7 @@
     },
     {
       "id": "creature_048",
-      "displayName": "Monora 48",
+      "displayName": "Lumabloom48",
       "stats": {
         "hp": 88,
         "attack": 83,
@@ -2712,7 +2712,7 @@
     },
     {
       "id": "creature_049",
-      "displayName": "Monora 49",
+      "displayName": "Noctfang49",
       "stats": {
         "hp": 89,
         "attack": 84,
@@ -2763,7 +2763,7 @@
     },
     {
       "id": "creature_050",
-      "displayName": "Monora 50",
+      "displayName": "Frostcrest50",
       "stats": {
         "hp": 90,
         "attack": 85,
