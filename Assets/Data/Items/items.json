@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"id": "capture_ball_basic", "category": "CaptureBall", "value": 100},
+    {"id": "capture_ball_ultra", "category": "CaptureBall", "value": 1200},
+    {"id": "potion_small", "category": "Potion", "value": 300},
+    {"id": "potion_max", "category": "Potion", "value": 2500},
+    {"id": "evolution_stone_fire", "category": "EvolutionStone", "value": 2000},
+    {"id": "fiber_leaf", "category": "CraftingMaterial", "value": 25},
+    {"id": "ore_shard", "category": "CraftingMaterial", "value": 35},
+    {"id": "quest_royal_seal", "category": "QuestItem", "value": 0}
+  ]
+}
