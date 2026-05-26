@@ -4,12 +4,12 @@
       "id": "creature_001",
       "displayName": "Monora 1",
       "stats": {
-        "hp": 46,
-        "attack": 41,
-        "defense": 36,
-        "specialAttack": 43,
-        "specialDefense": 39,
-        "speed": 31
+        "hp": 41,
+        "attack": 36,
+        "defense": 31,
+        "specialAttack": 34,
+        "specialDefense": 30,
+        "speed": 29
       },
       "types": [
         "Fire"
@@ -61,12 +61,12 @@
       "id": "creature_002",
       "displayName": "Monora 2",
       "stats": {
-        "hp": 47,
-        "attack": 42,
-        "defense": 37,
-        "specialAttack": 44,
-        "specialDefense": 40,
-        "speed": 32
+        "hp": 42,
+        "attack": 37,
+        "defense": 32,
+        "specialAttack": 35,
+        "specialDefense": 31,
+        "speed": 30
       },
       "types": [
         "Water"
@@ -117,12 +117,12 @@
       "id": "creature_003",
       "displayName": "Monora 3",
       "stats": {
-        "hp": 48,
-        "attack": 43,
-        "defense": 38,
-        "specialAttack": 45,
-        "specialDefense": 41,
-        "speed": 33
+        "hp": 43,
+        "attack": 38,
+        "defense": 33,
+        "specialAttack": 36,
+        "specialDefense": 32,
+        "speed": 31
       },
       "types": [
         "Grass",
@@ -175,12 +175,12 @@
       "id": "creature_004",
       "displayName": "Monora 4",
       "stats": {
-        "hp": 49,
-        "attack": 44,
-        "defense": 39,
-        "specialAttack": 46,
-        "specialDefense": 42,
-        "speed": 34
+        "hp": 44,
+        "attack": 39,
+        "defense": 34,
+        "specialAttack": 37,
+        "specialDefense": 33,
+        "speed": 32
       },
       "types": [
         "Electric"
@@ -231,12 +231,12 @@
       "id": "creature_005",
       "displayName": "Monora 5",
       "stats": {
-        "hp": 50,
-        "attack": 45,
-        "defense": 40,
-        "specialAttack": 47,
-        "specialDefense": 43,
-        "speed": 35
+        "hp": 45,
+        "attack": 40,
+        "defense": 35,
+        "specialAttack": 38,
+        "specialDefense": 34,
+        "speed": 33
       },
       "types": [
         "Rock"
@@ -287,12 +287,12 @@
       "id": "creature_006",
       "displayName": "Monora 6",
       "stats": {
-        "hp": 51,
-        "attack": 46,
-        "defense": 41,
-        "specialAttack": 48,
-        "specialDefense": 44,
-        "speed": 36
+        "hp": 46,
+        "attack": 41,
+        "defense": 36,
+        "specialAttack": 39,
+        "specialDefense": 35,
+        "speed": 34
       },
       "types": [
         "Ground",
@@ -345,12 +345,12 @@
       "id": "creature_007",
       "displayName": "Monora 7",
       "stats": {
-        "hp": 52,
-        "attack": 47,
-        "defense": 42,
-        "specialAttack": 49,
-        "specialDefense": 45,
-        "speed": 37
+        "hp": 47,
+        "attack": 42,
+        "defense": 37,
+        "specialAttack": 40,
+        "specialDefense": 36,
+        "speed": 35
       },
       "types": [
         "Wind"
@@ -402,12 +402,12 @@
       "id": "creature_008",
       "displayName": "Monora 8",
       "stats": {
-        "hp": 53,
-        "attack": 48,
-        "defense": 43,
-        "specialAttack": 50,
-        "specialDefense": 46,
-        "speed": 38
+        "hp": 48,
+        "attack": 43,
+        "defense": 38,
+        "specialAttack": 41,
+        "specialDefense": 37,
+        "speed": 36
       },
       "types": [
         "Light"
@@ -458,12 +458,12 @@
       "id": "creature_009",
       "displayName": "Monora 9",
       "stats": {
-        "hp": 54,
-        "attack": 49,
-        "defense": 44,
-        "specialAttack": 51,
-        "specialDefense": 47,
-        "speed": 39
+        "hp": 49,
+        "attack": 44,
+        "defense": 39,
+        "specialAttack": 42,
+        "specialDefense": 38,
+        "speed": 37
       },
       "types": [
         "Dark",
@@ -516,12 +516,12 @@
       "id": "creature_010",
       "displayName": "Monora 10",
       "stats": {
-        "hp": 55,
-        "attack": 50,
-        "defense": 45,
-        "specialAttack": 52,
-        "specialDefense": 48,
-        "speed": 40
+        "hp": 50,
+        "attack": 45,
+        "defense": 40,
+        "specialAttack": 43,
+        "specialDefense": 39,
+        "speed": 38
       },
       "types": [
         "Ice"
@@ -572,12 +572,12 @@
       "id": "creature_011",
       "displayName": "Monora 11",
       "stats": {
-        "hp": 56,
-        "attack": 51,
-        "defense": 46,
-        "specialAttack": 53,
-        "specialDefense": 49,
-        "speed": 41
+        "hp": 51,
+        "attack": 46,
+        "defense": 41,
+        "specialAttack": 44,
+        "specialDefense": 40,
+        "speed": 39
       },
       "types": [
         "Fire"
@@ -628,12 +628,12 @@
       "id": "creature_012",
       "displayName": "Monora 12",
       "stats": {
-        "hp": 57,
-        "attack": 52,
-        "defense": 47,
-        "specialAttack": 54,
-        "specialDefense": 50,
-        "speed": 42
+        "hp": 52,
+        "attack": 47,
+        "defense": 42,
+        "specialAttack": 45,
+        "specialDefense": 41,
+        "speed": 40
       },
       "types": [
         "Water",
@@ -686,12 +686,12 @@
       "id": "creature_013",
       "displayName": "Monora 13",
       "stats": {
-        "hp": 58,
-        "attack": 53,
-        "defense": 48,
-        "specialAttack": 55,
-        "specialDefense": 51,
-        "speed": 43
+        "hp": 53,
+        "attack": 48,
+        "defense": 43,
+        "specialAttack": 46,
+        "specialDefense": 42,
+        "speed": 41
       },
       "types": [
         "Grass"
@@ -743,12 +743,12 @@
       "id": "creature_014",
       "displayName": "Monora 14",
       "stats": {
-        "hp": 59,
-        "attack": 54,
-        "defense": 49,
-        "specialAttack": 56,
-        "specialDefense": 52,
-        "speed": 44
+        "hp": 54,
+        "attack": 49,
+        "defense": 44,
+        "specialAttack": 47,
+        "specialDefense": 43,
+        "speed": 42
       },
       "types": [
         "Electric"
@@ -799,12 +799,12 @@
       "id": "creature_015",
       "displayName": "Monora 15",
       "stats": {
-        "hp": 60,
-        "attack": 55,
-        "defense": 50,
-        "specialAttack": 57,
-        "specialDefense": 53,
-        "speed": 45
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "specialAttack": 48,
+        "specialDefense": 44,
+        "speed": 43
       },
       "types": [
         "Rock",
@@ -857,12 +857,12 @@
       "id": "creature_016",
       "displayName": "Monora 16",
       "stats": {
-        "hp": 61,
-        "attack": 56,
-        "defense": 51,
-        "specialAttack": 58,
-        "specialDefense": 54,
-        "speed": 46
+        "hp": 56,
+        "attack": 51,
+        "defense": 46,
+        "specialAttack": 49,
+        "specialDefense": 45,
+        "speed": 44
       },
       "types": [
         "Ground"
@@ -913,12 +913,12 @@
       "id": "creature_017",
       "displayName": "Monora 17",
       "stats": {
-        "hp": 62,
-        "attack": 57,
-        "defense": 52,
-        "specialAttack": 59,
-        "specialDefense": 55,
-        "speed": 47
+        "hp": 57,
+        "attack": 52,
+        "defense": 47,
+        "specialAttack": 50,
+        "specialDefense": 46,
+        "speed": 45
       },
       "types": [
         "Wind"
@@ -969,12 +969,12 @@
       "id": "creature_018",
       "displayName": "Monora 18",
       "stats": {
-        "hp": 63,
-        "attack": 58,
-        "defense": 53,
-        "specialAttack": 60,
-        "specialDefense": 56,
-        "speed": 48
+        "hp": 58,
+        "attack": 53,
+        "defense": 48,
+        "specialAttack": 51,
+        "specialDefense": 47,
+        "speed": 46
       },
       "types": [
         "Light",
@@ -1027,12 +1027,12 @@
       "id": "creature_019",
       "displayName": "Monora 19",
       "stats": {
-        "hp": 64,
-        "attack": 59,
-        "defense": 54,
-        "specialAttack": 61,
-        "specialDefense": 57,
-        "speed": 49
+        "hp": 59,
+        "attack": 54,
+        "defense": 49,
+        "specialAttack": 52,
+        "specialDefense": 48,
+        "speed": 47
       },
       "types": [
         "Dark"
@@ -1084,12 +1084,12 @@
       "id": "creature_020",
       "displayName": "Monora 20",
       "stats": {
-        "hp": 65,
-        "attack": 60,
-        "defense": 55,
-        "specialAttack": 62,
-        "specialDefense": 58,
-        "speed": 50
+        "hp": 60,
+        "attack": 55,
+        "defense": 50,
+        "specialAttack": 53,
+        "specialDefense": 49,
+        "speed": 48
       },
       "types": [
         "Ice"
@@ -1140,12 +1140,12 @@
       "id": "creature_021",
       "displayName": "Monora 21",
       "stats": {
-        "hp": 66,
-        "attack": 61,
-        "defense": 56,
-        "specialAttack": 63,
-        "specialDefense": 59,
-        "speed": 51
+        "hp": 61,
+        "attack": 56,
+        "defense": 51,
+        "specialAttack": 54,
+        "specialDefense": 50,
+        "speed": 49
       },
       "types": [
         "Fire",
@@ -1198,12 +1198,12 @@
       "id": "creature_022",
       "displayName": "Monora 22",
       "stats": {
-        "hp": 67,
-        "attack": 62,
-        "defense": 57,
-        "specialAttack": 64,
-        "specialDefense": 60,
-        "speed": 52
+        "hp": 62,
+        "attack": 57,
+        "defense": 52,
+        "specialAttack": 55,
+        "specialDefense": 51,
+        "speed": 50
       },
       "types": [
         "Water"
@@ -1254,12 +1254,12 @@
       "id": "creature_023",
       "displayName": "Monora 23",
       "stats": {
-        "hp": 68,
-        "attack": 63,
-        "defense": 58,
-        "specialAttack": 65,
-        "specialDefense": 61,
-        "speed": 53
+        "hp": 63,
+        "attack": 58,
+        "defense": 53,
+        "specialAttack": 56,
+        "specialDefense": 52,
+        "speed": 51
       },
       "types": [
         "Grass"
@@ -1310,12 +1310,12 @@
       "id": "creature_024",
       "displayName": "Monora 24",
       "stats": {
-        "hp": 69,
-        "attack": 64,
-        "defense": 59,
-        "specialAttack": 66,
-        "specialDefense": 62,
-        "speed": 54
+        "hp": 64,
+        "attack": 59,
+        "defense": 54,
+        "specialAttack": 57,
+        "specialDefense": 53,
+        "speed": 52
       },
       "types": [
         "Electric",
@@ -1368,12 +1368,12 @@
       "id": "creature_025",
       "displayName": "Monora 25",
       "stats": {
-        "hp": 70,
-        "attack": 65,
-        "defense": 60,
-        "specialAttack": 67,
-        "specialDefense": 63,
-        "speed": 55
+        "hp": 65,
+        "attack": 60,
+        "defense": 55,
+        "specialAttack": 58,
+        "specialDefense": 54,
+        "speed": 53
       },
       "types": [
         "Rock"
@@ -1425,12 +1425,12 @@
       "id": "creature_026",
       "displayName": "Monora 26",
       "stats": {
-        "hp": 71,
-        "attack": 66,
-        "defense": 61,
-        "specialAttack": 68,
-        "specialDefense": 64,
-        "speed": 56
+        "hp": 66,
+        "attack": 61,
+        "defense": 56,
+        "specialAttack": 59,
+        "specialDefense": 55,
+        "speed": 54
       },
       "types": [
         "Ground"
@@ -1481,12 +1481,12 @@
       "id": "creature_027",
       "displayName": "Monora 27",
       "stats": {
-        "hp": 72,
-        "attack": 67,
-        "defense": 62,
-        "specialAttack": 69,
-        "specialDefense": 65,
-        "speed": 57
+        "hp": 67,
+        "attack": 62,
+        "defense": 57,
+        "specialAttack": 60,
+        "specialDefense": 56,
+        "speed": 55
       },
       "types": [
         "Wind",
@@ -1539,12 +1539,12 @@
       "id": "creature_028",
       "displayName": "Monora 28",
       "stats": {
-        "hp": 73,
-        "attack": 68,
-        "defense": 63,
-        "specialAttack": 70,
-        "specialDefense": 66,
-        "speed": 58
+        "hp": 68,
+        "attack": 63,
+        "defense": 58,
+        "specialAttack": 61,
+        "specialDefense": 57,
+        "speed": 56
       },
       "types": [
         "Light"
@@ -1595,12 +1595,12 @@
       "id": "creature_029",
       "displayName": "Monora 29",
       "stats": {
-        "hp": 74,
-        "attack": 69,
-        "defense": 64,
-        "specialAttack": 71,
-        "specialDefense": 67,
-        "speed": 59
+        "hp": 69,
+        "attack": 64,
+        "defense": 59,
+        "specialAttack": 62,
+        "specialDefense": 58,
+        "speed": 57
       },
       "types": [
         "Dark"
@@ -1651,12 +1651,12 @@
       "id": "creature_030",
       "displayName": "Monora 30",
       "stats": {
-        "hp": 75,
-        "attack": 70,
-        "defense": 65,
-        "specialAttack": 72,
-        "specialDefense": 68,
-        "speed": 60
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "specialAttack": 63,
+        "specialDefense": 59,
+        "speed": 58
       },
       "types": [
         "Ice",
@@ -1709,12 +1709,12 @@
       "id": "creature_031",
       "displayName": "Monora 31",
       "stats": {
-        "hp": 76,
-        "attack": 71,
-        "defense": 66,
-        "specialAttack": 73,
-        "specialDefense": 69,
-        "speed": 61
+        "hp": 71,
+        "attack": 66,
+        "defense": 61,
+        "specialAttack": 64,
+        "specialDefense": 60,
+        "speed": 59
       },
       "types": [
         "Fire"
@@ -1766,12 +1766,12 @@
       "id": "creature_032",
       "displayName": "Monora 32",
       "stats": {
-        "hp": 77,
-        "attack": 72,
-        "defense": 67,
-        "specialAttack": 74,
-        "specialDefense": 70,
-        "speed": 62
+        "hp": 72,
+        "attack": 67,
+        "defense": 62,
+        "specialAttack": 65,
+        "specialDefense": 61,
+        "speed": 60
       },
       "types": [
         "Water"
@@ -1822,12 +1822,12 @@
       "id": "creature_033",
       "displayName": "Monora 33",
       "stats": {
-        "hp": 78,
-        "attack": 73,
-        "defense": 68,
-        "specialAttack": 75,
-        "specialDefense": 71,
-        "speed": 63
+        "hp": 73,
+        "attack": 68,
+        "defense": 63,
+        "specialAttack": 66,
+        "specialDefense": 62,
+        "speed": 61
       },
       "types": [
         "Grass",
@@ -1880,12 +1880,12 @@
       "id": "creature_034",
       "displayName": "Monora 34",
       "stats": {
-        "hp": 79,
-        "attack": 74,
-        "defense": 69,
-        "specialAttack": 76,
-        "specialDefense": 72,
-        "speed": 64
+        "hp": 74,
+        "attack": 69,
+        "defense": 64,
+        "specialAttack": 67,
+        "specialDefense": 63,
+        "speed": 62
       },
       "types": [
         "Electric"
@@ -1936,12 +1936,12 @@
       "id": "creature_035",
       "displayName": "Monora 35",
       "stats": {
-        "hp": 80,
-        "attack": 75,
-        "defense": 70,
-        "specialAttack": 77,
-        "specialDefense": 73,
-        "speed": 65
+        "hp": 75,
+        "attack": 70,
+        "defense": 65,
+        "specialAttack": 68,
+        "specialDefense": 64,
+        "speed": 63
       },
       "types": [
         "Rock"
@@ -1992,12 +1992,12 @@
       "id": "creature_036",
       "displayName": "Monora 36",
       "stats": {
-        "hp": 81,
-        "attack": 76,
-        "defense": 71,
-        "specialAttack": 78,
-        "specialDefense": 74,
-        "speed": 66
+        "hp": 76,
+        "attack": 71,
+        "defense": 66,
+        "specialAttack": 69,
+        "specialDefense": 65,
+        "speed": 64
       },
       "types": [
         "Ground",
@@ -2050,12 +2050,12 @@
       "id": "creature_037",
       "displayName": "Monora 37",
       "stats": {
-        "hp": 82,
-        "attack": 77,
-        "defense": 72,
-        "specialAttack": 79,
-        "specialDefense": 75,
-        "speed": 67
+        "hp": 77,
+        "attack": 72,
+        "defense": 67,
+        "specialAttack": 70,
+        "specialDefense": 66,
+        "speed": 65
       },
       "types": [
         "Wind"
@@ -2107,12 +2107,12 @@
       "id": "creature_038",
       "displayName": "Monora 38",
       "stats": {
-        "hp": 83,
-        "attack": 78,
-        "defense": 73,
-        "specialAttack": 80,
-        "specialDefense": 76,
-        "speed": 68
+        "hp": 78,
+        "attack": 73,
+        "defense": 68,
+        "specialAttack": 71,
+        "specialDefense": 67,
+        "speed": 66
       },
       "types": [
         "Light"
@@ -2163,12 +2163,12 @@
       "id": "creature_039",
       "displayName": "Monora 39",
       "stats": {
-        "hp": 84,
-        "attack": 79,
-        "defense": 74,
-        "specialAttack": 81,
-        "specialDefense": 77,
-        "speed": 69
+        "hp": 79,
+        "attack": 74,
+        "defense": 69,
+        "specialAttack": 72,
+        "specialDefense": 68,
+        "speed": 67
       },
       "types": [
         "Dark",
@@ -2221,12 +2221,12 @@
       "id": "creature_040",
       "displayName": "Monora 40",
       "stats": {
-        "hp": 45,
-        "attack": 80,
-        "defense": 75,
-        "specialAttack": 82,
-        "specialDefense": 78,
-        "speed": 70
+        "hp": 80,
+        "attack": 75,
+        "defense": 70,
+        "specialAttack": 73,
+        "specialDefense": 69,
+        "speed": 68
       },
       "types": [
         "Ice"
@@ -2277,12 +2277,12 @@
       "id": "creature_041",
       "displayName": "Monora 41",
       "stats": {
-        "hp": 46,
-        "attack": 81,
-        "defense": 76,
-        "specialAttack": 83,
-        "specialDefense": 79,
-        "speed": 71
+        "hp": 81,
+        "attack": 76,
+        "defense": 71,
+        "specialAttack": 74,
+        "specialDefense": 70,
+        "speed": 69
       },
       "types": [
         "Fire"
@@ -2333,12 +2333,12 @@
       "id": "creature_042",
       "displayName": "Monora 42",
       "stats": {
-        "hp": 47,
-        "attack": 82,
-        "defense": 77,
-        "specialAttack": 84,
-        "specialDefense": 80,
-        "speed": 72
+        "hp": 82,
+        "attack": 77,
+        "defense": 72,
+        "specialAttack": 75,
+        "specialDefense": 71,
+        "speed": 70
       },
       "types": [
         "Water",
@@ -2391,12 +2391,12 @@
       "id": "creature_043",
       "displayName": "Monora 43",
       "stats": {
-        "hp": 48,
-        "attack": 83,
-        "defense": 78,
-        "specialAttack": 85,
-        "specialDefense": 38,
-        "speed": 73
+        "hp": 83,
+        "attack": 78,
+        "defense": 73,
+        "specialAttack": 76,
+        "specialDefense": 72,
+        "speed": 71
       },
       "types": [
         "Grass"
@@ -2448,12 +2448,12 @@
       "id": "creature_044",
       "displayName": "Monora 44",
       "stats": {
-        "hp": 49,
-        "attack": 84,
-        "defense": 79,
-        "specialAttack": 86,
-        "specialDefense": 39,
-        "speed": 74
+        "hp": 84,
+        "attack": 79,
+        "defense": 74,
+        "specialAttack": 77,
+        "specialDefense": 73,
+        "speed": 72
       },
       "types": [
         "Electric"
@@ -2504,12 +2504,12 @@
       "id": "creature_045",
       "displayName": "Monora 45",
       "stats": {
-        "hp": 50,
-        "attack": 85,
-        "defense": 35,
-        "specialAttack": 87,
-        "specialDefense": 40,
-        "speed": 75
+        "hp": 85,
+        "attack": 80,
+        "defense": 75,
+        "specialAttack": 78,
+        "specialDefense": 74,
+        "speed": 73
       },
       "types": [
         "Rock",
@@ -2562,12 +2562,12 @@
       "id": "creature_046",
       "displayName": "Monora 46",
       "stats": {
-        "hp": 51,
-        "attack": 86,
-        "defense": 36,
-        "specialAttack": 88,
-        "specialDefense": 41,
-        "speed": 76
+        "hp": 86,
+        "attack": 81,
+        "defense": 76,
+        "specialAttack": 79,
+        "specialDefense": 75,
+        "speed": 74
       },
       "types": [
         "Ground"
@@ -2612,12 +2612,12 @@
       "id": "creature_047",
       "displayName": "Monora 47",
       "stats": {
-        "hp": 52,
-        "attack": 87,
-        "defense": 37,
-        "specialAttack": 42,
-        "specialDefense": 42,
-        "speed": 77
+        "hp": 87,
+        "attack": 82,
+        "defense": 77,
+        "specialAttack": 80,
+        "specialDefense": 76,
+        "speed": 75
       },
       "types": [
         "Wind"
@@ -2662,12 +2662,12 @@
       "id": "creature_048",
       "displayName": "Monora 48",
       "stats": {
-        "hp": 53,
-        "attack": 88,
-        "defense": 38,
-        "specialAttack": 43,
-        "specialDefense": 43,
-        "speed": 78
+        "hp": 88,
+        "attack": 83,
+        "defense": 78,
+        "specialAttack": 81,
+        "specialDefense": 77,
+        "speed": 76
       },
       "types": [
         "Light",
@@ -2714,12 +2714,12 @@
       "id": "creature_049",
       "displayName": "Monora 49",
       "stats": {
-        "hp": 54,
-        "attack": 89,
-        "defense": 39,
-        "specialAttack": 44,
-        "specialDefense": 44,
-        "speed": 79
+        "hp": 89,
+        "attack": 84,
+        "defense": 79,
+        "specialAttack": 82,
+        "specialDefense": 78,
+        "speed": 77
       },
       "types": [
         "Dark"
@@ -2765,12 +2765,12 @@
       "id": "creature_050",
       "displayName": "Monora 50",
       "stats": {
-        "hp": 55,
-        "attack": 40,
-        "defense": 40,
-        "specialAttack": 45,
-        "specialDefense": 45,
-        "speed": 80
+        "hp": 90,
+        "attack": 85,
+        "defense": 80,
+        "specialAttack": 83,
+        "specialDefense": 79,
+        "speed": 78
       },
       "types": [
         "Ice"

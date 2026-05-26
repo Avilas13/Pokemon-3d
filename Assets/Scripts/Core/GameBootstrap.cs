@@ -21,7 +21,8 @@ namespace Pokemon3D
             // Hooks for additional systems:
             _eventBus.Subscribe<TimeWeatherChangedEvent>(_ =>
             {
-                var _unused = biomeSpawnSystem.GetSpawnCandidates("Forest", "Clear", worldTimeWeatherSystem.GetTimeWindow());
+                var spawnCandidatesExample = biomeSpawnSystem.GetSpawnCandidates("Forest", "Clear", worldTimeWeatherSystem.GetTimeWindow());
+                _ = spawnCandidatesExample;
             });
         }
     }
